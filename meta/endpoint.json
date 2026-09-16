@@ -17,8 +17,22 @@
             "role": "Designer"
         }
     ],
-    "games": {
-        "Steal an Egg": true,
-        "TestPlace": false
-    }
+    "games": [
+        {
+            "name": "Steal an Egg",
+            "active": true
+        },
+        {
+            "name": "TestPlace",
+            "active": false
+        },
+        {
+            "name": "Steal an Egg",
+            "active": true
+        },
+        {
+            "name": "TestPlace",
+            "active": false
+        }
+    ]
 }

@@ -21,18 +21,6 @@
         {
             "name": "Steal an Egg",
             "active": true
-        },
-        {
-            "name": "TestPlace",
-            "active": false
-        },
-        {
-            "name": "Steal an Egg",
-            "active": true
-        },
-        {
-            "name": "TestPlace",
-            "active": false
         }
     ]
 }

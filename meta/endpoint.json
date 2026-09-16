@@ -3,7 +3,7 @@
     "contributors": {
         "bbuyguihhyugkujg": "Helped with Steal an Egg"
     },
-    "developers": {
+    "developers": [
         {
             "username": "s4kurabana",
             "role": "Owner"
@@ -16,7 +16,7 @@
             "username": "kostyalivashov",
             "role": "Designer"
         }
-    },
+    ],
     "games": {
         "Steal an Egg": true,
         "TestPlace": false

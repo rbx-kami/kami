@@ -4,8 +4,21 @@
         "bbuyguihhyugkujg": "Helped with Steal an Egg"
     },
     "developers": {
-        "s4kurabana": "Owner",
-        "Astral_luau": "Co-owner",
-        "kostyalivashov": "Designer"
+        {
+        "username": "s4kurabana":
+        "role": "Owner",
+        },
+        {
+        "username": "Astral_luau":
+        "role": "Co-owner",
+        },
+        {
+        "username": "kostyalivashov":
+        "role": "Designer",
+        }
+    },
+    "games": {
+        "Steal an Egg": true,
+        "TestPlace": false
     }
 }

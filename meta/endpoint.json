@@ -5,16 +5,16 @@
     },
     "developers": {
         {
-        "username": "s4kurabana":
-        "role": "Owner",
+            "username": "s4kurabana",
+            "role": "Owner",
         },
         {
-        "username": "Astral_luau":
-        "role": "Co-owner",
+            "username": "Astral_luau",
+            "role": "Co-owner",
         },
         {
-        "username": "kostyalivashov":
-        "role": "Designer",
+            "username": "kostyalivashov",
+            "role": "Designer",
         }
     },
     "games": {

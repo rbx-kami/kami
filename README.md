@@ -6,5 +6,5 @@
 A free, high-quality script for Roblox.
 
 ```lua
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/rbx-kami/loader/refs/heads/main/loader.luau"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/rbx-kami/loader/refs/heads/main/kami.luau"))()
 ```

@@ -22,7 +22,7 @@
 
 local Players = cloneref and cloneref(game:GetService("Players")) or game:GetService("Players")
 
-local REPO = "https://github.com/RBX-Kami/loader"
+local REPO = "https://github.com/RBX-Kami/kami"
 local VERSION
 
 local src = game:HttpGetAsync(

@@ -20,7 +20,11 @@
     "games": [
         {
             "name": "Steal an Egg",
-            "active": true
+            "Places": { 107778070777162 },
+            "Universe": 10563114921,
+            "active": true,
+            "folder": "StealAnEgg",
+            "file": "stealanegg.luau"
         }
     ]
 }

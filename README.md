@@ -1,6 +1,6 @@
 <div align="center">
   <image src="./logo.png" width="256">
-  <h1>Kami</h1> 
+  <h1>kami!</h1> 
 </div>
 
 A free, high-quality script for Roblox.
